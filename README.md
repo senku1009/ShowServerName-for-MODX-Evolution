@@ -1,1 +1,0 @@
-# ShowServerName-for-MODX-Evolution
